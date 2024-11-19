@@ -1,83 +1,82 @@
-aiohappyeyeballs
-aiohttp
-aiosignal
-annotated-types
-anyio
-attrs
-beautifulsoup4
-certifi
-cffi
-charset-normalizer
-colorama
-dataclasses-json
-diskcache
-distro
-docker
-FLAML
-frozenlist
-greenlet
-h11
-httpcore
-httpx
-httpx-sse
-idna
-jiter
-joblib
-jsonpatch
-jsonpointer
-langchain
-langchain-community
-langchain-core
-langchain-openai
-langchain-text-splitters
-langsmith
-lightgbm
-marshmallow
-multidict
-mypy-extensions
-numpy
-openai
-orjson
-outcome
-packaging
-pandas
-playwright
-propcache
-pyautogen
-pycparser
-pydantic
-pydantic-settings
-pydantic-core
-pyee
-PySocks
-python-dateutil
-python-dotenv
-pytz
-PyYAML
-regex
-requests
-requests-toolbelt
-scikit-learn
-scipy
-selenium
-six
-sniffio
-sortedcontainers
-soupsieve
-SQLAlchemy
-tenacity
-termcolor
-threadpoolctl
-tiktoken
-tqdm
-trio
-trio-websocket
-typing-inspect
-typing_extensions
-tzdata
-urllib3
-webdriver-manager
-websocket-client
-wsproto
-xgboost
-Flask
+   aiohappyeyeballs
+   aiohttp
+   aiosignal
+   annotated-types
+   anyio
+   attrs
+   beautifulsoup4
+   certifi
+   cffi
+   charset-normalizer
+   colorama
+   dataclasses-json
+   diskcache
+   distro
+   docker
+   FLAML
+   frozenlist
+   greenlet
+   h11
+   httpcore
+   httpx
+   httpx-sse
+   idna
+   jiter
+   joblib
+   jsonpatch
+   jsonpointer
+   langchain
+   langchain-community
+   langchain-core
+   langchain-openai
+   langchain-text-splitters
+   langsmith
+   lightgbm
+   marshmallow
+   multidict
+   mypy-extensions
+   numpy
+   openai
+   orjson
+   outcome
+   packaging
+   pandas
+   propcache
+   pyautogen
+   pycparser
+   pydantic
+   pydantic-settings
+   pydantic-core
+   pyee
+   PySocks
+   python-dateutil
+   python-dotenv
+   pytz
+   PyYAML
+   regex
+   requests
+   requests-toolbelt
+   scikit-learn
+   scipy
+   selenium
+   six
+   sniffio
+   sortedcontainers
+   soupsieve
+   SQLAlchemy
+   tenacity
+   termcolor
+   threadpoolctl
+   tiktoken
+   tqdm
+   trio
+   trio-websocket
+   typing-inspect
+   typing_extensions
+   tzdata
+   urllib3
+   webdriver-manager
+   websocket-client
+   wsproto
+   xgboost
+   Flask
