@@ -1,0 +1,65 @@
+/* styles.css */
+
+
+/* styles.css */
+
+body {
+    background-color: #f8f9fa;
+    /* Color de fondo suave */
+}
+
+#result,
+#directorResult,
+#allMessages {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+    /* Fondo blanco para los resultados */
+    border-radius: 5px;
+    /* Bordes redondeados */
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#result {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+#directorResult {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #e9f7ef;
+}
+
+#allMessages {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #e0f7fa;
+}
