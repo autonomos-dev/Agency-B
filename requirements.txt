@@ -17,6 +17,7 @@
    frozenlist
    greenlet
    h11
+   gunicorn
    httpcore
    httpx
    httpx-sse
